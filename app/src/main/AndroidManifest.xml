@@ -13,6 +13,45 @@
         android:theme="@style/Theme.JaavansathiClone"
         tools:targetApi="31">
         <activity
+            android:name=".UserLoginPage"
+            android:exported="false" />
+        <activity
+            android:name=".AdminHomePage"
+            android:exported="false" />
+        <activity
+            android:name=".AdminLoginPage"
+            android:exported="false" />
+        <activity
+            android:name=".PartnerPreference"
+            android:exported="false" />
+        <activity
+            android:name=".FamilyDetails"
+            android:exported="false" />
+        <activity
+            android:name=".AddPhoto"
+            android:exported="false" />
+        <activity
+            android:name=".BioScreen"
+            android:exported="false" />
+        <activity
+            android:name=".OTP_VerifyScreen"
+            android:exported="false" />
+        <activity
+            android:name=".LoginDetails"
+            android:exported="false" />
+        <activity
+            android:name=".SocialDetails"
+            android:exported="false" />
+        <activity
+            android:name=".CareerDetails"
+            android:exported="false" />
+        <activity
+            android:name=".PersonalDetails"
+            android:exported="false" />
+        <activity
+            android:name=".ProfileDetails"
+            android:exported="false" />
+        <activity
             android:name=".CreateProfile"
             android:exported="false" />
         <activity

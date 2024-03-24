@@ -6,4 +6,11 @@
     </style>
 
     <style name="Theme.JaavansathiClone" parent="Base.Theme.JaavansathiClone" />
+
+    <style name="AppRadioAppStyle" parent="Widget.AppCompat.CompoundButton.RadioButton">
+<!--        <item name="android:textColor">@drawable/radio_button_background</item>-->
+<!--        <item name="drawableTint">@drawable/radio_button_background</item>-->
+        <item name="buttonTint">@drawable/radio_button_background</item>
+
+    </style>
 </resources>
